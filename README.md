@@ -108,7 +108,8 @@ Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
 - 5:25 Uhr Lauf vom Rappen zum [Start](https://maps.app.goo.gl/jucyVvo7TbkiAyTm9)
     - lauf geht durch die Altstadt zur Eiswiese
     - 5:35 Uhr Beauftragung als Botenläufer im Burggarten
-    - Für Auto gilt folgende [Route](https://maps.app.goo.gl/TSbAaAiy3gDURFGW6) ![image](./AnfahrtAutoZumStart.png)
+    - Für Auto gilt folgende [Route](https://maps.app.goo.gl/TSbAaAiy3gDURFGW6)
+      ![image](./AnfahrtAutoZumStart.png)
 
 
 - 6 Uhr Start
@@ -133,7 +134,8 @@ Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
 
 - Rebecca stößt an KM 18 dazu ([maps](https://maps.app.goo.gl/DgcJyYyvfDY6uMnR8))
     - Achtung bei Schloss Weikersheim, Fahrradfahrer müssen vorher links
-      abbiegen ![image](./RadfahrerSchlossWeikersheim.png)
+      abbiegen
+      ![image](./RadfahrerSchlossWeikersheim.png)
 
 ##### Markierungen beachten
 
