@@ -109,7 +109,8 @@ Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
     - lauf geht durch die Altstadt zur Eiswiese
     - 5:35 Uhr Beauftragung als Botenläufer im Burggarten
     - Für Auto gilt folgende [Route](https://maps.app.goo.gl/TSbAaAiy3gDURFGW6)
-      ![image](./AnfahrtAutoZumStart.png)
+
+![image](./AnfahrtAutoZumStart.png)
 
 
 - 6 Uhr Start
@@ -135,7 +136,8 @@ Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
 - Rebecca stößt an KM 18 dazu ([maps](https://maps.app.goo.gl/DgcJyYyvfDY6uMnR8))
     - Achtung bei Schloss Weikersheim, Fahrradfahrer müssen vorher links
       abbiegen
-      ![image](./RadfahrerSchlossWeikersheim.png)
+
+![image](./RadfahrerSchlossWeikersheim.png)
 
 ##### Markierungen beachten
 
