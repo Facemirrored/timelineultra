@@ -16,7 +16,7 @@ Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
 
 ### Rolfs auto
 
-- Rolf (Jochens Bruder) stellt freundlicherweise sein Auto zur verfügung
+- Rolf (Jochens Cousin) stellt freundlicherweise sein Auto zur verfügung
 - Er bringt das auto gegen 14 Uhr vorbei
     - gegebenenfalls bereits das Fahrrad schon befestigen
     - alternativ am Samstag früh
