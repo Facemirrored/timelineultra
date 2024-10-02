@@ -1,6 +1,7 @@
 # Ablauf Ultra-Marathon
 
 Timeline mit wichtigen Informationen für den Ultra.
+Die gesamte Präsentation vom Briefing befindet sich [hier](./Briefing.pdf).
 
 <hr>
 
